@@ -11,7 +11,7 @@ public class EmpView {
 		
 		
 		emp.setEmpId(1002);
-		emp.setEmpName("Sneha");
+		emp.setEmpName("Snehal");
 		
 		
 		System.out.println("ID: "+emp.getEmpId());
